@@ -1,10 +1,10 @@
 <h3 align="center"><samp>Hey! I am <b><a rel="nofollow noopener noreferrer" target="_blank"
-        href="https://me.omerfaruk.dev/">Ömer Faruk Orhan</a>.</b> <br>I'm a 22 y/o software developer
+        href="https://omerfaruk.dev/">Ömer Faruk Orhan</a>.</b> <br>I'm a 23 y/o software developer
     based in Malatya, Turkey.</samp></h3>
 <p align="center"><br>
   <samp>
     Computer Programmer<br>
-    Faculty of Medicine and Computer Engineering Student
+    Faculty of Medicine Student
   </samp>
 </p>
 <p align="center">
